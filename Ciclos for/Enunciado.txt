@@ -1,0 +1,2 @@
+Escriba un programa que permita ingresar 10 números por teclado y nos muestre posteriormente la suma, resta, multiplicación y promedio de los números ingresados.
+Tenga en cuenta que el usuario escribirá los números en la consola.
