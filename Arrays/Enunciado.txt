@@ -1,1 +1,0 @@
-Escriba un programa que permita ingresar por consola los nombres, apellidos, edad y sexo de 5 personas, luego imprima los arreglos.
