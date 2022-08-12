@@ -1,0 +1,2 @@
+Escriba un programa que permita realizar las operaciones matemáticas básicas: suma, resta, multiplicación, división.
+Tenga en cuenta que el usuario escribirá en la consola los números y la operación a realizar.
