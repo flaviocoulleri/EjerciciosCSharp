@@ -1,0 +1,1 @@
+Escriba e implemente un programa, donde definas una variable y enseguida la inicialices. Luego, mostrar por pantalla el valor almacenado en cada variable.
